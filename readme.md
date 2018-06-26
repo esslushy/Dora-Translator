@@ -1,0 +1,3 @@
+#Dora Translator
+The goal of this challenge was a practice with dictionary and replacing certain words in a string with other words. It was a simple practice challenge.
+This is part of the Natural Language Processing and Machine Learning using Python course taught by Reed Coke. Specifically level 3/15 lesson 1. If you would like to know more about this please refer to the Hello World Studios website.
